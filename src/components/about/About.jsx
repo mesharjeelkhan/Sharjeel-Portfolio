@@ -38,7 +38,7 @@ const About = () => {
                             <li>NestJS</li>
                             <li>MERN Full Stack</li>
                         </ul>
-                        <button className="btn" onClick={downloadResume}>Donwload CV</button>
+                        <button className="btn" onClick={downloadResume}>Download CV</button>
                     </div>
 
                     <div className="about__skills grid">
