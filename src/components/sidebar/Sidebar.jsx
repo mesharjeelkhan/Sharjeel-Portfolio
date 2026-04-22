@@ -3,18 +3,18 @@ import "./Sidebar.css";
 import Logo from "../../assets/logo.svg";
 import LightLogo from "../../assets/light-logo.svg";
 
-import {
-    RiHome2Line,
-    RiUser3Line,
-    RiBriefcase2Line,
-    RiStackLine,
-    RiDraftLine,
-    RiChat3Line,
-    RiFileList3Line,
-    RiMoonLine,
-    RiSunLine,
-    RiMenu2Line,
-} from "react-icons/ri";
+// import {
+//     RiHome2Line,
+//     RiUser3Line,
+//     RiBriefcase2Line,
+//     RiStackLine,
+//     RiDraftLine,
+//     RiChat3Line,
+//     RiFileList3Line,
+//     RiMoonLine,
+//     RiSunLine,
+//     RiMenu2Line,
+// } from "react-icons/ri";
 
 
 const Sidebar = (props) => {
