@@ -8,7 +8,7 @@ import {
     RiUser3Line,
     RiBriefcase2Line,
     RiStackLine,
-    RiChat3Line,
+    // RiChat3Line,
     RiFileList3Line,
     RiMoonLine,
     RiSunLine,
@@ -65,11 +65,11 @@ const Sidebar = (props) => {
                                 </a>
                             </li> */}
 
-                            <li className="nav__item">
+                            {/* <li className="nav__item">
                                 <a href="#contact" className="nav__link">
                                     <RiChat3Line />
                                 </a>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                 </nav>
