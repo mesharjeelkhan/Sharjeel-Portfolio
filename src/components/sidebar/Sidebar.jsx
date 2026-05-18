@@ -48,16 +48,6 @@ const Sidebar = (props) => {
                                     <RiStackLine />
                                 </a>
                             </li>
-                            {/* <li className="nav__item">
-                                <a href="#blog" className="nav__link">
-                                    <RiDraftLine />
-                                </a>
-                            </li> */}
-                            {/* <li className="nav__item">
-                                <a href="#contact" className="nav__link">
-                                    <RiChat3Line />
-                                </a>
-                            </li> */}
                         </ul>
                     </div>
                 </nav>
